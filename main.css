@@ -11,9 +11,7 @@ header {
 body {
   padding-top: 4em;
   background-image: url(HomeBackground.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-size: cover no-repeat;
 
 }
 
