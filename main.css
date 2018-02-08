@@ -4,17 +4,17 @@ body,html {
 
 header {
   text-align: center;
-  background-color: black;
-  border-color:brown;
-  border-style:solid;
+  background-color: ;
+
 }
 
 body {
   padding-top: 4em;
   background-image: url(HomeBackground.jpg);
-  background-size: cover;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
+
 }
 
 h2 {
