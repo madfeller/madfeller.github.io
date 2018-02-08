@@ -2,13 +2,11 @@ body,html {
   height: 100%;
 }
 
-
 header {
   text-align: center;
   background-color: ;
 
 }
-
 
 body {
   padding-top: 4em;
@@ -18,7 +16,6 @@ body {
   background-attachment: fixed;
 
 }
-
 
 h2 {
 }
@@ -35,7 +32,7 @@ iframe {
   border-width: 0.3em;
 }
 
-footer {
+footer{
   font-size: 100%;
   text-align: center;
 }
