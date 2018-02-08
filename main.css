@@ -1,14 +1,7 @@
-
-
-html {
-    background: url(HomeBackground.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    height: 100%;
-    overflow: hidden;
+body,html {
+  height: 100%;
 }
+
 
 header {
   text-align: center;
@@ -16,10 +9,16 @@ header {
 
 }
 
-body {
 
+body {
+  padding-top: 4em;
+  background-image: url(HomeBackground.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 
 }
+
 
 h2 {
 }
