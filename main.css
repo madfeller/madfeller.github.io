@@ -1,0 +1,73 @@
+body,html {
+  height: 100%;
+}
+
+header {
+  text-align: center;
+  background-color: black;
+  border-color:brown;
+  border-style:solid;
+}
+
+body {
+  padding-top: 4em;
+  background-image: url(HomeBackground.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h2 {
+}
+
+p {
+ margin: 1em;
+}
+
+iframe {
+  float: right;
+  size: 50%;
+  border-color: red;
+  border-style: 
+  border-width: 0.3em;
+}
+
+footer{
+  font-size: 100%;
+  text-align: center;
+  background-color: black;
+  border-color:brown;
+  border-style:solid;
+}
+
+.container {
+  font-size: 100%;
+  background-color: white;
+  border-color:brown;
+  border-style:solid;
+
+}
+
+.entries{
+  padding: 20px;
+}
+
+.twitter {
+  float: left;
+  size: 1em;
+  padding: 1em;
+  border-color:blue;
+  border-style: ;
+  border-width: 0.3em;
+
+
+}
+
+.logo {
+  color:#fff;
+  font-weight:800;
+  font-size:14pt;
+  padding:25px;
+  text-align:center;
+}
+
