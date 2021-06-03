@@ -1,88 +1,60 @@
-body,html {
+ body,html {
   height: 100%;
-}
-
-header {
-  text-align: center;
-  background-color: ;
-
-}
-
-body:before {
-  content: "header";
-  display: block;
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -10;
-  background: url(HomeBackground.jpg) no-repeat center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }
 
  body {
   padding-top: 4em;
-  background-image: url(HomeBackground.jpg);
+  background-image: url(background.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
 
 } 
 
-
-
-h2 {
-}
-
-p {
- margin: 1em;
-}
-
-iframe {
-  float: right;
-  size: 50%;
-  border-color: red;
-  border-style: 
-  border-width: 0.3em;
-}
-
 footer{
   font-size: 100%;
   text-align: center;
+  color: green;
 }
+
 
 .container {
+  height: 92%;
+  width: 100%;
   font-size: 100%;
   background-color: white;
-  border-color:brown;
+  border-color:green;
   border-style:solid;
+  color: blue;
+  text-align: center;
+}
+
+.container2 {
+  margin-left: 19%;
+  height: 10%;
+  width: 25%;
+  font-size: 100%;
+  background-color: white;
+  border-color:green;
+  border-style:solid;
+  color: blue;
+  text-align: center;
+}
+
+img {
+ max-height: 100%;
+ max-width: 100%;
+ object-fit: contain;
+ display: block;
+ padding: 0%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
-.entries{
-  padding: 20px;
-}
 
-.twitter {
-  float: left;
-  size: 1em;
-  padding: 1em;
-  border-color:blue;
-  border-style: ;
-  border-width: 0.3em;
-
-
-}
-
-.logo {
-  color:#fff;
-  font-weight:800;
-  font-size:14pt;
-  padding:25px;
-  text-align:center;
-}
 
